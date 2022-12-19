@@ -3,3 +3,6 @@
 
 # Push 대량 발송 시퀀스 다이어그램
 ![image2](https://user-images.githubusercontent.com/48572149/208465144-31c82380-a455-498c-9a70-12857089989c.png)
+
+# 알림 화면 예시
+![image3](https://user-images.githubusercontent.com/48572149/208465675-97be45fb-ccfb-40fd-8434-9eba9f9b4c38.png)
