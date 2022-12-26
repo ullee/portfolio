@@ -1,7 +1,7 @@
 # Media Convert
 
 #### 미디어 스트리밍 프로토콜 종류
-> - HLS, MPEG-DASH, MSS, ...
+> - HLS, MPEG-DASH, MSS...
 > - 업로드된 동영상은 보통 호환성이 좋은 HLS로 변환하지만, 각 OS별로 특화된 인코딩 방식을 사용하기로 함
 
 #### CMAF 도입
