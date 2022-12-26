@@ -4,7 +4,7 @@
 > Store Server-side Notification --> POST /store/{os} --> Server (gRPC)
 
 
-# 2. Apple 결제 프로세스
+# Apple 결제 프로세스
 
 ### 구독 상품 (IOS)
 
@@ -21,7 +21,7 @@
 ---
 
 
-# 3. Google 결제 프로세스
+# Google 결제 프로세스
 ### 소모성 상품 (Android)
 
 ![android_purchase](https://kroki.io/plantuml/svg/eNqdkssKwjAQRfd-xSx1kR8QESuCuCv42IdmbINpJk4Si39vtVhpfaHb4cw9d0JmPkgOsTSDxDkQYgpr5BPyGFImFbMARvsAjMeIPtygiRDvIO_IemyjlkS5wdTI8zoQ4wN3rDMEbffEpQya7JPgp9Vv2lWSfhc0UC_qfudOGq0a3ZUbVjoU4CJnhfS4oQPaUWtodl43-SPnZdleTtv7kzvJDpYqgyrHEm2n52I-hq2rAxGir2eVNAY7RP0g760ztKr-Qhf2zM19)
